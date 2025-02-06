@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Root course\\c#\\Basics\\EF-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A979F9EA-AD89-4C5B-BC23-86EC7DA82E06}|EF-Ass2\\EF-Ass2.csproj|e:\\root course\\c#\\basics\\ef-2\\ef-ass2\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A979F9EA-AD89-4C5B-BC23-86EC7DA82E06}|EF-Ass2\\EF-Ass2.csproj|solutionrelative:ef-ass2\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A979F9EA-AD89-4C5B-BC23-86EC7DA82E06}|EF-Ass2\\EF-Ass2.csproj|e:\\root course\\c#\\basics\\ef-2\\ef-ass2\\contexts\\enterprisedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A979F9EA-AD89-4C5B-BC23-86EC7DA82E06}|EF-Ass2\\EF-Ass2.csproj|solutionrelative:ef-ass2\\contexts\\enterprisedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A979F9EA-AD89-4C5B-BC23-86EC7DA82E06}|EF-Ass2\\EF-Ass2.csproj|e:\\root course\\c#\\basics\\ef-2\\ef-ass2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A979F9EA-AD89-4C5B-BC23-86EC7DA82E06}|EF-Ass2\\EF-Ass2.csproj|solutionrelative:ef-ass2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A979F9EA-AD89-4C5B-BC23-86EC7DA82E06}|EF-Ass2\\EF-Ass2.csproj|e:\\root course\\c#\\basics\\ef-2\\ef-ass2\\model\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A979F9EA-AD89-4C5B-BC23-86EC7DA82E06}|EF-Ass2\\EF-Ass2.csproj|solutionrelative:ef-ass2\\model\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A979F9EA-AD89-4C5B-BC23-86EC7DA82E06}|EF-Ass2\\EF-Ass2.csproj|e:\\root course\\c#\\basics\\ef-2\\ef-ass2\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A979F9EA-AD89-4C5B-BC23-86EC7DA82E06}|EF-Ass2\\EF-Ass2.csproj|solutionrelative:ef-ass2\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A979F9EA-AD89-4C5B-BC23-86EC7DA82E06}|EF-Ass2\\EF-Ass2.csproj|e:\\root course\\c#\\basics\\ef-2\\ef-ass2\\model\\stud_course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A979F9EA-AD89-4C5B-BC23-86EC7DA82E06}|EF-Ass2\\EF-Ass2.csproj|solutionrelative:ef-ass2\\model\\stud_course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A979F9EA-AD89-4C5B-BC23-86EC7DA82E06}|EF-Ass2\\EF-Ass2.csproj|e:\\root course\\c#\\basics\\ef-2\\ef-ass2\\model\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A979F9EA-AD89-4C5B-BC23-86EC7DA82E06}|EF-Ass2\\EF-Ass2.csproj|solutionrelative:ef-ass2\\model\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A979F9EA-AD89-4C5B-BC23-86EC7DA82E06}|EF-Ass2\\EF-Ass2.csproj|e:\\root course\\c#\\basics\\ef-2\\ef-ass2\\model\\course_inst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A979F9EA-AD89-4C5B-BC23-86EC7DA82E06}|EF-Ass2\\EF-Ass2.csproj|solutionrelative:ef-ass2\\model\\course_inst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A979F9EA-AD89-4C5B-BC23-86EC7DA82E06}|EF-Ass2\\EF-Ass2.csproj|e:\\root course\\c#\\basics\\ef-2\\ef-ass2\\model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A979F9EA-AD89-4C5B-BC23-86EC7DA82E06}|EF-Ass2\\EF-Ass2.csproj|solutionrelative:ef-ass2\\model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A979F9EA-AD89-4C5B-BC23-86EC7DA82E06}|EF-Ass2\\EF-Ass2.csproj|e:\\root course\\c#\\basics\\ef-2\\ef-ass2\\configurations\\course_instconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A979F9EA-AD89-4C5B-BC23-86EC7DA82E06}|EF-Ass2\\EF-Ass2.csproj|solutionrelative:ef-ass2\\configurations\\course_instconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A979F9EA-AD89-4C5B-BC23-86EC7DA82E06}|EF-Ass2\\EF-Ass2.csproj|e:\\root course\\c#\\basics\\ef-2\\ef-ass2\\configurations\\stud_courseconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A979F9EA-AD89-4C5B-BC23-86EC7DA82E06}|EF-Ass2\\EF-Ass2.csproj|solutionrelative:ef-ass2\\configurations\\stud_courseconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnterpriseDBContext.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\EF-2\\EF-Ass2\\Contexts\\EnterpriseDBContext.cs",
+              "RelativeDocumentMoniker": "EF-Ass2\\Contexts\\EnterpriseDBContext.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\EF-2\\EF-Ass2\\Contexts\\EnterpriseDBContext.cs",
+              "RelativeToolTip": "EF-Ass2\\Contexts\\EnterpriseDBContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIAwwAwAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T21:10:11.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Stud_Course.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\EF-2\\EF-Ass2\\Model\\Stud_Course.cs",
+              "RelativeDocumentMoniker": "EF-Ass2\\Model\\Stud_Course.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\EF-2\\EF-Ass2\\Model\\Stud_Course.cs",
+              "RelativeToolTip": "EF-Ass2\\Model\\Stud_Course.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAIAwwAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T19:14:01.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Department.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\EF-2\\EF-Ass2\\Model\\Department.cs",
+              "RelativeDocumentMoniker": "EF-Ass2\\Model\\Department.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\EF-2\\EF-Ass2\\Model\\Department.cs",
+              "RelativeToolTip": "EF-Ass2\\Model\\Department.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T19:13:06.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\EF-2\\EF-Ass2\\Model\\Instructor.cs",
+              "RelativeDocumentMoniker": "EF-Ass2\\Model\\Instructor.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\EF-2\\EF-Ass2\\Model\\Instructor.cs",
+              "RelativeToolTip": "EF-Ass2\\Model\\Instructor.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA9wBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T19:07:33.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\EF-2\\EF-Ass2\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "EF-Ass2\\Model\\Student.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\EF-2\\EF-Ass2\\Model\\Student.cs",
+              "RelativeToolTip": "EF-Ass2\\Model\\Student.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T19:05:18.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\EF-2\\EF-Ass2\\Program.cs",
+              "RelativeDocumentMoniker": "EF-Ass2\\Program.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\EF-2\\EF-Ass2\\Program.cs",
+              "RelativeToolTip": "EF-Ass2\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T19:03:50.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Topic.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\EF-2\\EF-Ass2\\Model\\Topic.cs",
+              "RelativeDocumentMoniker": "EF-Ass2\\Model\\Topic.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\EF-2\\EF-Ass2\\Model\\Topic.cs",
+              "RelativeToolTip": "EF-Ass2\\Model\\Topic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T19:13:31.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Course_Inst.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\EF-2\\EF-Ass2\\Model\\Course_Inst.cs",
+              "RelativeDocumentMoniker": "EF-Ass2\\Model\\Course_Inst.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\EF-2\\EF-Ass2\\Model\\Course_Inst.cs",
+              "RelativeToolTip": "EF-Ass2\\Model\\Course_Inst.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T19:14:27.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Course.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\EF-2\\EF-Ass2\\Model\\Course.cs",
+              "RelativeDocumentMoniker": "EF-Ass2\\Model\\Course.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\EF-2\\EF-Ass2\\Model\\Course.cs",
+              "RelativeToolTip": "EF-Ass2\\Model\\Course.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAApwAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T19:05:58.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Course_InstConfigurations.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\EF-2\\EF-Ass2\\Configurations\\Course_InstConfigurations.cs",
+              "RelativeDocumentMoniker": "EF-Ass2\\Configurations\\Course_InstConfigurations.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\EF-2\\EF-Ass2\\Configurations\\Course_InstConfigurations.cs",
+              "RelativeToolTip": "EF-Ass2\\Configurations\\Course_InstConfigurations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T20:58:00.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Stud_CourseConfigurations.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\EF-2\\EF-Ass2\\Configurations\\Stud_CourseConfigurations.cs",
+              "RelativeDocumentMoniker": "EF-Ass2\\Configurations\\Stud_CourseConfigurations.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\EF-2\\EF-Ass2\\Configurations\\Stud_CourseConfigurations.cs",
+              "RelativeToolTip": "EF-Ass2\\Configurations\\Stud_CourseConfigurations.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T20:02:19.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
