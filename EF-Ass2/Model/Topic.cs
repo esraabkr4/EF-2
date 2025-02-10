@@ -10,5 +10,9 @@ namespace EF_Ass2.Model
     {
         public int ID { get; set; }
         public string Name { get; set; }
+
+        #region CourseRelation
+        public Course? Course { get; set; }
+        #endregion
     }
 }

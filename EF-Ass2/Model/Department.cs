@@ -12,13 +12,20 @@ namespace EF_Ass2.Model
         public int ID { get; set; }
         public string Name { get; set; }
         
-        public DateOnly HiringDate { get; set; }
+        public DateTime HiringDate { get; set; }
         public ICollection<Student> Students { get; set; } = new HashSet<Student>();
-        #region InstructorRelation
-        [ForeignKey("Instructor")]
-        public int Ins_ID { get; set; }
+        #region WorkatRelation
+        //[ForeignKey(nameof(Instructors))]
+        //public int Ins_ID { get; set; }
+        [InverseProperty(nameof(Model.Instructor.Department))]
         public ICollection<Instructor> Instructors { get; set; } = new HashSet<Instructor>();
         #endregion
 
+        #region ManageRelation
+        [ForeignKey(nameof(Manager))]
+        public int Manager_ID { get; set; }
+        [InverseProperty(nameof(Model.Instructor.ManagerDept))]
+        public Instructor Manager { get; set; } = null!;
+        #endregion
     }
 }

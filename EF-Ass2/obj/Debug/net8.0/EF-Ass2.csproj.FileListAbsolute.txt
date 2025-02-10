@@ -129,3 +129,4 @@ E:\Root course\c#\Basics\EF-2\EF-Ass2\obj\Debug\net8.0\refint\EF-Ass2.dll
 E:\Root course\c#\Basics\EF-2\EF-Ass2\obj\Debug\net8.0\EF-Ass2.pdb
 E:\Root course\c#\Basics\EF-2\EF-Ass2\obj\Debug\net8.0\EF-Ass2.genruntimeconfig.cache
 E:\Root course\c#\Basics\EF-2\EF-Ass2\obj\Debug\net8.0\ref\EF-Ass2.dll
+E:\Root course\c#\Basics\EF-2\EF-Ass2\obj\Debug\net8.0\EF-Ass2.sourcelink.json
